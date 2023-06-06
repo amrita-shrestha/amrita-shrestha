@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Amrita, a full-time QA Engineer</div>  
+### <div align="center">I'm Amrita, a full-time QA Engineer and Part-time Developer</div>  
   
 
 - 🔭 I’m currently working on [Janakari Tech](https://github.com/jankaritech)  
